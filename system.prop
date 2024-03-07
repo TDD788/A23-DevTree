@@ -1,5 +1,5 @@
 ro.display.series=Galaxy A23
-ro.product.board=SM6225
+#ro.product.board=bengal
 fbe.metadata.wrappedkey=true
 persist.sys.isUsbOtgEnabled=false
 ro.fastbootd.available=true
