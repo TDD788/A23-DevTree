@@ -1,0 +1,13 @@
+#!/system/bin/sh
+
+# Check if an argument is provided
+if [ $# -eq 0 ]; then
+    echo "Usage: $0 <password>"
+    exit 1
+fi
+
+# Get the path of the password provided as argument
+password="$1"
+
+# Decrypt with password
+/sbin/decrypt "$password"

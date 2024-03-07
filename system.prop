@@ -1,0 +1,9 @@
+ro.display.series=Galaxy A23
+ro.product.board=SM6225
+fbe.metadata.wrappedkey=true
+persist.sys.isUsbOtgEnabled=false
+ro.fastbootd.available=true
+ro.fastboot.available=true
+persist.sys.usb.config=mtp,adb
+persist.sys.usb.ffs.ready=1
+persist.sys.usb.state=fastboot
